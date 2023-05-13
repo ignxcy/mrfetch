@@ -2,11 +2,11 @@
     <h1>MrFetch</h1>
 </div>
 
-## A simple fetching program
 <div align="center">
-    <img src="https://img.shields.io/github/license/sparkklol/mrfetch?style=flat-square&logo=license">
-    <img src="https://img.shields.io/github/forks/sparkklol/mrfetch?style=flat-square">
-    <img src="https://img.shields.io/github/stars/sparkklol/mrfetch?style=flat-square">
+    <h2>A simple fetching program</h2>
+</div>
+<div align="center">
+    <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
 </div>
 <details>
     <summary>Preview</summary>
