@@ -14,6 +14,7 @@
 </details>
 
 ## Installing:
+<h3>First, make sure to have a <a href="https://github.com/ryanoasis/nerd-fonts">nerd font</a> installed</h3>
 ```bash
 $ make install
 ```
