@@ -20,3 +20,7 @@
 ```bash
 $ make install
 ```
+### You can also run it once, without installing like this:
+```bash
+wget -qO - https://github.com/ignxcy/mrfetch/raw/main/mrfetch.sh | sh
+```
