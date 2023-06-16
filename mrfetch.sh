@@ -9,7 +9,7 @@ NC='\033[0m'
 
 echo -e "${RED} ${NC}user@hostname      |     $(whoami)@$(hostname)"
 echo -e "${GREEN} ${NC}Distro             |     $(lsb_release -s -i)"
-echo -e "${YELLOW} ${NC}Kernel             |     $(uname -r)"
+echo -e "${YELLOW} ${NC}Kernel             |     $(uname -s -r)"
 echo -e "${BLUE}⏻ ${NC}Uptime             |     $(uptime -p | sed "s/up //")"
 echo -e "${PURPLE} ${NC}DE/WM              |     $XDG_CURRENT_DESKTOP"
 echo -e "${CYAN} ${NC}Terminal           |     $(ps -o comm= -p "$(($(ps -o ppid= -p "$(($(ps -o sid= -p "$$")))")))")"
